@@ -42,13 +42,6 @@ AI_Resume_Parser/
 ```
 
 ## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/stutibisht8/AI_Resume_Parser.git
-```
-
 Install the required dependencies:
 
 ```bash
@@ -79,7 +72,5 @@ streamlit run app.py
 - Resume comparison with multiple job descriptions
 
 ## Author
-
 **Stuti Bisht**
-
 GitHub: https://github.com/stutibisht8
