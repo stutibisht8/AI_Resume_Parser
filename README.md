@@ -53,6 +53,10 @@ Run the application:
 ```bash
 streamlit run app.py
 ```
+## Application Demo
+
+[View AI Resume Parser Demo]
+(AI_Resume_Parser_Screenshot.pdf)
 
 ## How It Works
 
